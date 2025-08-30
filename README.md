@@ -40,4 +40,4 @@ None.
 Arduino Nano, C/C++ (Arduino), Adafruit BNO055, Encoder, DC Motor, PID Control, Serial Plotter
 
 📣 **Hashtags Section**  
-# Arduino #PID #DCMotor #Automation #ControlSystems #EmbeddedSystems #Sensors #Electronics #Innovation
+\# #Arduino #PID #DCMotor #Automation #ControlSystems #EmbeddedSystems #Sensors #Electronics #Innovation
