@@ -1,23 +1,14 @@
-🧾 🎯 Project title: The Optimization of the Control System
-
-📅 Project Timeline: July 2021 – September 2021
-
-🎥 YouTube Demo: To be added
-
-📦GitHub Source Code: <https://github.com/IvanSicaja/The-optimization-of-the-control-system>
-
+**🧾 🎯 Project Title: The Optimization of the Control System  
+📅 Project Timeline:** July 2021 – September 2021  
+🎥 YouTube Demo: To be added  
+📦 GitHub Source Code: <https://github.com/IvanSicaja/2021.07.01_GitHub_The-Optimization-of-the-Control-System>  
 \----------------------------------------------------------------------------------------------------------------
 
-🏷️ My Personal Profiles: ⬇︎
-
-🎥 Video Portfolio: To be added
-
-📦 GitHub Profile: [https://github.com/IvanSicaja](https://github.com/IvanSicaja"%20\t%20"_new)
-
-🔗 LinkedIn: <https://www.linkedin.com/in/ivan-si%C4%8Daja-832682222>
-
-🎥 YouTube: <https://www.youtube.com/@ivan_sicaja>
-
+🏷️ My Personal Profiles: ⬇︎  
+🎥 Video Portfolio: To be added  
+📦 GitHub Profile: [https://github.com/IvanSicaja](https://github.com/IvanSicaja?utm_source=chatgpt.com)  
+🔗 LinkedIn: [https://www.linkedin.com/in/ivan-si%C4%8Daja-832682222](https://www.linkedin.com/in/ivan-si%C4%8Daja-832682222?utm_source=chatgpt.com)  
+🎥 YouTube: [https://www.youtube.com/@ivan_sicaja](https://www.youtube.com/@ivan_sicaja?utm_source=chatgpt.com)  
 \----------------------------------------------------------------------------------------------------------------
 
 📚🔍 **Project description:** ⬇︎⬇︎⬇︎
